@@ -1,6 +1,6 @@
 var React = require('react-native');
 var Firebase = require('firebase');
-var Login = new Firebase('https://crackling-fire-8350.firebaseio.com');
+var Login = new Firebase('https://myfirebase.com');
 
 
 var {
